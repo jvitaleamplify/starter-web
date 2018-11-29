@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
-Fork and then issue PR
+Fork and then issue PR something something
 
 ## Deployment
 
