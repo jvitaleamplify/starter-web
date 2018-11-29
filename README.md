@@ -20,4 +20,4 @@ Deploy paragraph
 
 ### Copyright
 
-copyright
+Jake's copyright
