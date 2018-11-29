@@ -10,7 +10,10 @@ Intro here
 
 Sample website with plenty of files for demos
 
-
 ## How to Contribute
 
+Contribute
+
 ## Deployment
+
+Deploy
