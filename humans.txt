@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jake jake@amplify.com dskljfdjskf
 
 # THANKS
 
