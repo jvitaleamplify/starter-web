@@ -12,8 +12,8 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
-Contribute
+Contribute paragraph
 
 ## Deployment
 
-Deploy
+Deploy paragraph
