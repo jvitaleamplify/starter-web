@@ -17,3 +17,7 @@ Contribute paragraph
 ## Deployment
 
 Deploy paragraph
+
+### Copyright
+
+copyright
