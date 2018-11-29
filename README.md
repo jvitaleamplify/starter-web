@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
-Contribute paragraph
+Fork and then issue PR
 
 ## Deployment
 
